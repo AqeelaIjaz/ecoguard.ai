@@ -1,0 +1,33 @@
+{
+  "idx_to_class": {
+    "0": "biological_control_agent",
+    "1": "decomposer",
+    "2": "invasive",
+    "3": "neutral",
+    "4": "pest",
+    "5": "pollinator",
+    "6": "predator"
+  },
+  "class_to_idx": {
+    "biological_control_agent": 0,
+    "decomposer": 1,
+    "invasive": 2,
+    "neutral": 3,
+    "pest": 4,
+    "pollinator": 5,
+    "predator": 6
+  },
+  "classes": [
+    "biological_control_agent",
+    "decomposer",
+    "invasive",
+    "neutral",
+    "pest",
+    "pollinator",
+    "predator"
+  ],
+  "num_classes": 7,
+  "model_arch": "efficientnet_b2",
+  "model_choice": "efficientnet",
+  "img_size": 260
+}
