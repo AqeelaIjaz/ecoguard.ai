@@ -3,6 +3,6 @@ It is a smart system that identifies pests and useful insects from plant images 
 ## 📥 Download Model (Required)
 
 *[⬇️ Click here to download ecoguard_model.pth (30MB)]*
- (https://github.com/Aqeelaljaz/ecoguard.ai/releases/download/v1.0.0/ecoguard_model.pth)
+ (https://github.com/AqeelaIjaz/ecoguard.ai/tags)
 
 > ⚠️ *Important:* Download this file and place it in the same folder as app.py
